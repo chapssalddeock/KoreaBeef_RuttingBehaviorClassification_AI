@@ -1,4 +1,4 @@
-# KoreaBeef_RuttingBehaviorClassification_AI
+# 🐄 KoreaBeef_RuttingBehaviorClassification_AI
 
 2022/01/07 ~ 2022/01/25
 
